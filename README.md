@@ -1,1 +1,1 @@
-# MachineLearning-Course
+# Machine Learning Coursera
