@@ -5,3 +5,6 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 * Lectures Slides
 * Solution to programming assignment
 * Solution to Quizzes
+
+### Week 1
+- [x] A completed task
