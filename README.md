@@ -15,8 +15,8 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Quiz: Linear Algebra
 
 ### Week 2
-- [] Videos: Linear Regression with Multiple Variables
-- [] Quiz: Linear Regression with Multiple Variables
-- [] Videos: Octave/Matlab Tutorial
-- [] Quiz: Octave/Matlab Tutorial
-- [] Programming Assignment: Linear Regression
+- [ ] Videos: Linear Regression with Multiple Variables
+- [ ] Quiz: Linear Regression with Multiple Variables
+- [ ] Videos: Octave/Matlab Tutorial
+- [ ] Quiz: Octave/Matlab Tutorial
+- [ ] Programming Assignment: Linear Regression
