@@ -17,6 +17,6 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ### Week 2
 - [x] Videos: Linear Regression with Multiple Variables
 - [x] Quiz: Linear Regression with Multiple Variables
-- [ ] Videos: Octave/Matlab Tutorial
+- [x] Videos: Octave/Matlab Tutorial
 - [ ] Quiz: Octave/Matlab Tutorial
 - [ ] Programming Assignment: Linear Regression
