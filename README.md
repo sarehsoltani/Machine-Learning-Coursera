@@ -19,4 +19,4 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Quiz: Linear Regression with Multiple Variables
 - [x] Videos: Octave/Matlab Tutorial
 - [x] Quiz: Octave/Matlab Tutorial
-- [ ] Programming Assignment: Linear Regression
+- [x] Programming Assignment: Linear Regression
