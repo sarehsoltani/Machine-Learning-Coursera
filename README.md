@@ -20,3 +20,12 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Videos: Octave/Matlab Tutorial
 - [x] Quiz: Octave/Matlab Tutorial
 - [x] Programming Assignment: Linear Regression
+
+### Week 3
+- [x] Videos: Logistic Regression
+- [ ] Quiz: Logistic Regression
+- [ ] Videos: Regularization
+- [ ] Quiz: Regularization
+- [ ] Programming Assignment: Logistic Regression
+
+
