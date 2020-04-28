@@ -23,7 +23,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 ### Week 3
 - [x] Videos: Logistic Regression
-- [ ] Quiz: Logistic Regression
+- [x] Quiz: Logistic Regression
 - [ ] Videos: Regularization
 - [ ] Quiz: Regularization
 - [ ] Programming Assignment: Logistic Regression
