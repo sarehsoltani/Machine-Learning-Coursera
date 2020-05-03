@@ -26,6 +26,6 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Quiz: Logistic Regression
 - [x] Videos: Regularization
 - [x] Quiz: Regularization
-- [ ] Programming Assignment: Logistic Regression
+- [x] Programming Assignment: Logistic Regression
 
 
