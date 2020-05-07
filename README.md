@@ -28,4 +28,8 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Quiz: Regularization
 - [x] Programming Assignment: Logistic Regression
 
+### Week 4
+- [x] Videos: Neural Networks: Representation
+- [ ] Quiz: Neural Networks: Representation
+- [ ] Programming Assignment: Multi-class Classification and Neural Networks
 
