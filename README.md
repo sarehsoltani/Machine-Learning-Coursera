@@ -31,5 +31,11 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ### Week 4
 - [x] Videos: Neural Networks: Representation
 - [x] Quiz: Neural Networks: Representation
-- [ ] Programming Assignment: Multi-class Classification and Neural Networks
+- [x] Programming Assignment: Multi-class Classification and Neural Networks
+
+
+### Week 5
+- [x] Videos: Neural Networks: Learning
+- [x] Quiz: Neural Networks: Learning
+- [ ] Programming Assignment: Neural Network Learning
 
