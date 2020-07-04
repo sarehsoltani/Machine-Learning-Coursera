@@ -41,7 +41,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 
 ### Week 6
-- [ ] Videos: Evaluating a learning algorithm
+- [x] Videos: Evaluating a learning algorithm
 - [ ] Quiz: 
 - [ ] Programming Assignment: 
 
