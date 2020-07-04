@@ -39,3 +39,9 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Quiz: Neural Networks: Learning
 - [x] Programming Assignment: Neural Network Learning
 
+
+### Week 6
+- [ ] Videos: Evaluating a learning algorithm
+- [ ] Quiz: 
+- [ ] Programming Assignment: 
+
