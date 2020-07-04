@@ -37,5 +37,5 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ### Week 5
 - [x] Videos: Neural Networks: Learning
 - [x] Quiz: Neural Networks: Learning
-- [ ] Programming Assignment: Neural Network Learning
+- [x] Programming Assignment: Neural Network Learning
 
