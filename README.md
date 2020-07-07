@@ -43,5 +43,5 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ### Week 6
 - [x] Videos: Evaluating a learning algorithm
 - [x] Quiz: Advice for Applying Machine Learning 
-- [ ] Programming Assignment: 
+- [x] Programming Assignment: 
 
