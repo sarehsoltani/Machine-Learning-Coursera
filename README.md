@@ -43,5 +43,9 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ### Week 6
 - [x] Videos: Evaluating a learning algorithm
 - [x] Quiz: Advice for Applying Machine Learning 
-- [x] Programming Assignment: 
+- [x] Programming Assignment: Regularized Linear Regression and Bias/Variance
+- [x] Videos: Building a spam classifier
+- [x] Quiz: Machine Learning System Design
+
+
 
