@@ -62,6 +62,13 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Video: Random Initialization
 - [x] Video: Choosing the Number of Clusters
 - [x] Quiz: Unsupervised Learning
+- [x] Video:  Motication I: Data Compression
+- [x] Video: Motivation II: Visualization
+- [x] Video:  Motication I: 
+- [x] Video: Motivation II: 
+- [x] Video:  Motication I: 
+- [x] Video: Motivation II: 
+- [x] Video:  Motication I: 
 - [ ] Programming Assignment: 
 - [ ] Quiz: Support 
 
