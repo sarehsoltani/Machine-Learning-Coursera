@@ -50,14 +50,18 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ### Week 7
 - [x] Video: Large Margin Classification
 - [x] Video: Kernels
-- [x] Video:Using An SVM
-- [x] Programming Assignment: Support Vector Machines
+- [x] Video: Using An SVM
 - [x] Quiz: Support Vector Machines
+- [x] Programming Assignment: Support Vector Machines
+
 
 ### Week 8
-- [ ] Video: 
-- [ ] Video: 
-- [ ] Video:Using 
+- [x] Video: Unsupervised Learning: Introduction
+- [x] Video: K-Means Algorithm
+- [x] Video: Optimization Objective
+- [x] Video: Random Initialization
+- [x] Video: Choosing the Number of Clusters
+- [x] Quiz: Unsupervised Learning
 - [ ] Programming Assignment: 
 - [ ] Quiz: Support 
 
