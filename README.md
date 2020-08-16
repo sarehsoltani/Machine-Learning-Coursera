@@ -86,4 +86,17 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [X] Quiz: Recommender Systems
 - [X] Programming Assignment: Anomaly Detection and Recommender Systems
 
+### Week 10
+- [x] Video: Large Scale Machine Learning
+- [x] Video: Gradient Descent with Large Datasets
+- [x] Video: Advanced Topics
+- [X] Quiz: Large Scale Machine Learning
+
+### Week 11
+- [x] Video: Photo OCR
+- [X] Quiz: Photo OCR
+
+
+
+
 
