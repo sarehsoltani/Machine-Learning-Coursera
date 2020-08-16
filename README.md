@@ -51,7 +51,13 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Video: Large Margin Classification
 - [x] Video: Kernels
 - [x] Video:Using An SVM
-- [ ] Programming Assignment: Regularized Linear Regression and Bias/Variance
-- [ ] Quiz: 
+- [x] Programming Assignment: Support Vector Machines
+- [x] Quiz: Support Vector Machines
 
+### Week 8
+- [ ] Video: 
+- [ ] Video: 
+- [ ] Video:Using 
+- [ ] Programming Assignment: 
+- [ ] Quiz: Support 
 
