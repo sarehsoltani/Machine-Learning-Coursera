@@ -49,7 +49,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 ### Week 7
 - [x] Video: Large Margin Classification
-- [ ] Video: Kernels
+- [x] Video: Kernels
 - [ ] Programming Assignment: Regularized Linear Regression and Bias/Variance
 - [ ] Quiz: 
 
