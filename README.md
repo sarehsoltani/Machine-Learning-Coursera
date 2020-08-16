@@ -75,20 +75,15 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 
 ### Week 9
-- [x] Video: Unsupervised Learning: Introduction
-- [x] Video: K-Means Algorithm
-- [x] Video: Optimization Objective
-- [x] Video: Random Initialization
-- [x] Video: Choosing the Number of Clusters
-- [x] Quiz: Unsupervised Learning
-- [x] Video:  Motication I: Data Compression
-- [x] Video: Motivation II: Visualization
-- [x] Video:  Motication I: Principal Component Analysis Problem Formulation
-- [x] Video: Motivation II: Principal Component Analysis Algorithm
-- [x] Video:  Motication I: Reconstruction from Compressed Representation
-- [x] Video: Motivation II: Choosing the Number of Principal Components
-- [x] Video:  Motication I: Advice for Applying PCA
-- [X] Quiz: Principal Component Analysis
-- [X] Programming Assignment: K-Means Clustering and PCA
+- [x] Video: Anomaly Detection
+- [x] Video: Density Estimation
+- [x] Video: Building an Anomaly Detection System
+- [x] Video: Multivariate Gaussian Distribution (Optional)
+- [x] Video: Recommender Systems
+- [x] Quiz: Predicting Movie Ratings
+- [x] Video: Collaborative Filtering
+- [x] Video: Low Rank Matrix Factorization
+- [X] Quiz: Recommender Systems
+- [X] Programming Assignment: Anomaly Detection and Recommender Systems
 
 
