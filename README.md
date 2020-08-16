@@ -64,11 +64,31 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Quiz: Unsupervised Learning
 - [x] Video:  Motication I: Data Compression
 - [x] Video: Motivation II: Visualization
-- [x] Video:  Motication I: 
-- [x] Video: Motivation II: 
-- [x] Video:  Motication I: 
-- [x] Video: Motivation II: 
-- [x] Video:  Motication I: 
-- [ ] Programming Assignment: 
-- [ ] Quiz: Support 
+- [x] Video:  Motication I: Principal Component Analysis Problem Formulation
+- [x] Video: Motivation II: Principal Component Analysis Algorithm
+- [x] Video:  Motication I: Reconstruction from Compressed Representation
+- [x] Video: Motivation II: Choosing the Number of Principal Components
+- [x] Video:  Motication I: Advice for Applying PCA
+- [X] Quiz: Principal Component Analysis
+- [X] Programming Assignment: K-Means Clustering and PCA
+
+
+
+### Week 9
+- [x] Video: Unsupervised Learning: Introduction
+- [x] Video: K-Means Algorithm
+- [x] Video: Optimization Objective
+- [x] Video: Random Initialization
+- [x] Video: Choosing the Number of Clusters
+- [x] Quiz: Unsupervised Learning
+- [x] Video:  Motication I: Data Compression
+- [x] Video: Motivation II: Visualization
+- [x] Video:  Motication I: Principal Component Analysis Problem Formulation
+- [x] Video: Motivation II: Principal Component Analysis Algorithm
+- [x] Video:  Motication I: Reconstruction from Compressed Representation
+- [x] Video: Motivation II: Choosing the Number of Principal Components
+- [x] Video:  Motication I: Advice for Applying PCA
+- [X] Quiz: Principal Component Analysis
+- [X] Programming Assignment: K-Means Clustering and PCA
+
 
