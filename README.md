@@ -96,6 +96,10 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 - [x] Video: Photo OCR
 - [X] Quiz: Photo OCR
 
+I've successfully completed Machine Learning course. Grade: 100
+![image](https://user-images.githubusercontent.com/23232055/90360810-e3714900-e071-11ea-80c8-646e56746b9a.png)
+
+
 
 
 
